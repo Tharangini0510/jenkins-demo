@@ -20,3 +20,4 @@ pipeline {
         }
     }
 }
+print("FILE CHANGED")
